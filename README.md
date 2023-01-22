@@ -9,3 +9,5 @@
 | :rocket: URL         | https://progressteps.netlify.app
 
 This project is a progress bar, which can be used in forms and on shopping sites.
+
+![2023-01-22-11-07-19](https://user-images.githubusercontent.com/72042885/213920174-194e74f5-ceb4-45f1-a63f-ba08ae83572d.gif)
